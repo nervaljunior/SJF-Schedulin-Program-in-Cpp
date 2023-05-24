@@ -1,4 +1,7 @@
 
+# autor: NERVAL JUNIOR
+
+
 ## o agendamento do primeiro trabalho mais curto
 ### shortest job first(SJF)
  
