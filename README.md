@@ -5,6 +5,12 @@
 
 # autor: NERVAL JUNIOR
 
+# CPU Scheduler Simulator
+## An application to simulate few CPU scheduling Policies.
+
+![](https://img.shields.io/badge/Language-C%2B%2B-brightgreen) ![](https://img.shields.io/badge/Compiler-Visual%20C%2B%2B-yellow) ![](https://img.shields.io/badge/IDE-Microsoft%20Visual%20Studio%202022-blue) ![](https://img.shields.io/badge/Environment-Windows-red) ![](https://img.shields.io/badge/User%20Interface-GUI%20%2B%20CLI-yellowgreen)
+
+---
 
 ## o agendamento do primeiro trabalho mais curto
 ### shortest job first(SJF)
@@ -74,10 +80,3 @@ de tecnologia usada Escolhi utilizar um notebook no jupyter criado com python pa
 
 
 ### Happy Coding!.
-
-# CPU Scheduler Simulator
-## An application to simulate few CPU scheduling Policies.
-
-![](https://img.shields.io/badge/Language-C%2B%2B-brightgreen) ![](https://img.shields.io/badge/Compiler-Visual%20C%2B%2B-yellow) ![](https://img.shields.io/badge/IDE-Microsoft%20Visual%20Studio%202022-blue) ![](https://img.shields.io/badge/Environment-Windows-red) ![](https://img.shields.io/badge/User%20Interface-GUI%20%2B%20CLI-yellowgreen)
-
----
