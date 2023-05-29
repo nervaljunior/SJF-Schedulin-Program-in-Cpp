@@ -1,3 +1,7 @@
+/*Autor: Seu Nome
+   Data: 24 de maio de 2023
+   Descrição: Este código faz escalnamento sjf*/
+
 #include<bits/stdc++.h>
 
 using namespace std;
