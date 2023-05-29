@@ -60,7 +60,9 @@ Existem dois tipos de algoritmos de escalonamento Shortest-Time-First, preemptiv
 
 ### Gráfico de Gantt Resultados para visualização
 
+![image](https://github.com/nervaljunior/SJF-Schedulin-Program-in-Cpp/assets/108685222/50f322b1-ce3d-4ec0-86ee-956f49c4da80)
 
+![image](https://github.com/nervaljunior/SJF-Schedulin-Program-in-Cpp/assets/108685222/474220ea-727a-495f-930f-b9cc410af599)
 
 O algoritmo de agendamento Shortest Job First (SJF) seleciona o processo com o menor tempo de execução como a próxima execução.  Estratégias de escalonamento preemptivas e não preemptivas são possíveis.  O tempo médio que outros processos ficam esperando para serem executados é muito diminuiu.  
 
