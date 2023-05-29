@@ -21,7 +21,7 @@ body {
 }
 
 .button:hover{
-	background-color: BLUE;
+	background-color: #8851e2;
 }
 
 .button:active {
@@ -36,7 +36,7 @@ body {
 }
 
 .page-header{
-	background-color:rgb(136, 81, 226);
+	background-color:#8851e2;
 	color: #30303d;
 	text-transform: uppercase;
 	letter-spacing: 0.1em;
@@ -46,10 +46,11 @@ body {
 }
 
 .container-1{
-	width: 40%;
+	width: 100%;
 	margin: 10px;
 	border: 1px;
 }
+
 
 
 .input-form label{
@@ -66,11 +67,10 @@ body {
 .input-form input{
 	padding: 5px;
 	margin-left:10px;
-	width: 40%;
 }
 
 .input-form button{
-	width: 60%;
+	width: 20%;
 }
 
 table{		
@@ -110,6 +110,8 @@ table, tr, th, td{
 
 
 .form-group-2{
+	display: flex;
+    justify-content: flex-end;
 	padding-left: 10px;
 	margin-left: 10px;
 	margin-top: 10px;		
@@ -186,3 +188,4 @@ input:checked + .slider:before {
 	flex-direction: column;
 
 }
+
